@@ -1,0 +1,1 @@
+ALTER TABLE public.bookings ADD COLUMN event_time text DEFAULT 'day';

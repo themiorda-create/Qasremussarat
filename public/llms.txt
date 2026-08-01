@@ -1,0 +1,16 @@
+# Qasr-e-Mussarat Marquee
+
+> Premium wedding and event marquee in Haroonabad hosting Mehndi, Baraat, Walima, and corporate dinners for up to 1,000 guests.
+
+Qasr-e-Mussarat Marquee is a flagship event venue offering full-service hosting — catering menus, decor add-ons, staff, and on-site coordination. Customers can check live availability, request bookings, schedule a venue visit, and purchase event stationery.
+
+## Pages
+
+- [Home](/): Overview, live availability, and featured services.
+- [Venues](/venues): Halls and marquee spaces with capacity and amenities.
+- [Booking](/booking): Request a date, pick menu items and add-ons, view pricing.
+- [Gallery](/gallery): Photos from past weddings, mehndi, and corporate events.
+- [About](/about): Story, location, and what makes the venue different.
+- [Contact](/contact): Phone, email, and address for inquiries.
+- [Meeting](/meeting): Schedule an in-person venue visit.
+- [Digital Products](/digital-products): Wedding stationery and downloadable templates.

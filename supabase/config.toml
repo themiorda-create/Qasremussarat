@@ -1,0 +1,13 @@
+project_id = "rpklrhtswqmgubfvumzz"
+
+[functions.send-booking-emails]
+verify_jwt = false
+
+[functions.send-status-update]
+verify_jwt = false
+
+[functions.send-meeting-update]
+verify_jwt = false
+
+[functions.ai-chat]
+verify_jwt = false
